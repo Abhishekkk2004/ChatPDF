@@ -4,5 +4,7 @@ This is an attempt to create a chat application, which helps in chatting and ask
 <hr>
 <p>In the next versions, custom pdf loader will be worked upon</p>
 <br>
-<br>
 <h2>Technologies used</h2>
+<p> Langchain based RAG application</p>
+<p> FAISS Vector Database</p>
+<p> Ollama LLM model with nomic-text embedding model</p>
