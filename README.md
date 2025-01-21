@@ -8,3 +8,7 @@ This is an attempt to create a chat application, which helps in chatting and ask
 <p> Langchain based RAG application</p>
 <p> FAISS Vector Database</p>
 <p> Ollama LLM model with nomic-text embedding model</p>
+<br>
+<h2>Future Workings</h2>
+<p>End-to-End Deployment</p>
+<p>Custom PDF loader</p>
